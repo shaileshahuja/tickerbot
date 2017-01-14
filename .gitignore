@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+venv/
+*local_settings.py
+media/
+*celery_logs*
+*.DS_Store
+*app.log*
+logfile*
+logs/
+tickerbot/celerybeat-schedule.db
